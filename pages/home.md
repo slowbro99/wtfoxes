@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 # WTFOXES LOGO HERE
 
-![fennec fox](/static/img/screen-shot-2021-08-25-at-10.34.47-am.png)
+![cowboy raver swift](/static/img/cowboi-raver.png)
 
 ### 4,004 foxes minting at .044
 
