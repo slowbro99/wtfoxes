@@ -19,6 +19,10 @@ eleventyNavigation:
 
 ### post reveal, only foxes can access it.
 
-### we will take a snapshot after launch at a random date, and maybe something will happen later.
+### 2.5% sales to the WWF fund for Adopting a Red Fox. 
+
+### 2.5% sales to the Michael J. Fox Foundation benefitting Parkinson's research.
+
+### snapshot after launch at a random date, and maybe something will happen later.
 
 ### there is no other roadmap.
