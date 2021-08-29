@@ -88,6 +88,10 @@ header > em {
 	font-style: normal;
 }
 
+nav {
+	margin: 0 auto;
+}
+
 /* Header Nav */
 header nav ul {
 	padding: 0;
