@@ -17,7 +17,7 @@ eleventyNavigation:
 
 ### 5 rare shirts hold the keys to the community.
 
-### post reveal, only holders can access it.
+### post reveal, only foxes can access it.
 
 ### we will take a snapshot after launch at a random date, and maybe something will happen later.
 
