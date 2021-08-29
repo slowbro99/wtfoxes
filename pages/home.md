@@ -17,7 +17,7 @@ eleventyNavigation:
 
 ### 5 rare shirts hold the keys to the community.
 
-### post reveal, only foxes can access it.
+### post reveal, only foxes can access that community.
 
 ### 2.5% sales to the WWF fund for Adopting a Red Fox. 
 
