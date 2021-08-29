@@ -43,7 +43,7 @@ a[href]:not(:hover) {
 }
 
 img {
-	max-width: 100%;
+	max-width: 16rem;
 	height: auto;
 }
 
