@@ -7,7 +7,7 @@ eleventyNavigation:
   key: Home
   order: 0
 ---
-# WTFOXES LOGO HERE
+![](/static/img/wtfoxes.svg)
 
 ![cowboy raver swift](/static/img/cowboi-raver.png)
 
