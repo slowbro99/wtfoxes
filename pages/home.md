@@ -13,4 +13,12 @@ eleventyNavigation:
 
 ## 4,004 foxes minting at .044
 
-[](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)`button here`
+\----
+
+### 5 rare shirts hold the keys to the community.
+
+### post reveal, only holders can access it.
+
+### we will take a snapshot after launch at a random date, and maybe something will happen later.
+
+### there is no other roadmap.
